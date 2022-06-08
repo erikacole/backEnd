@@ -1,5 +1,6 @@
 # EmplManagerBackEnd
 
+Added a new useless feature
 
 Simple NodeJs backend service for retrieving employees by position.
 
